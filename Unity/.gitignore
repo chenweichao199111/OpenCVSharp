@@ -1,0 +1,12 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+Builds/
+
+# Visual Studio/Rider Auto generated files
+.vs/
+.idea/
+*.csproj
+*.csproj.user
+*.sln
+.vsconfig
